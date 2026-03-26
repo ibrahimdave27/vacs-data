@@ -59,7 +59,7 @@
                 "label": ["Gander"]
               },
               {
-                "label": []
+                "label": ["DEL"]
               },
               {
                 "label": []
@@ -76,7 +76,7 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Reykjavík", "Control"],
+          "label": ["Reykjavík"],
           "size": 7,
           "page": {
             "rows": 4,
@@ -123,18 +123,10 @@
         {
           "label": ["NAT", "BBx"],
           "size": 7,
-          "page": {
-            "rows": 2,
-            "keys": [
-              {
-                "label": ["NAT", "BBx"],
-                "station_id": "NAT_BBx"
-              }
-            ]
-          }
+          "station_id": "NAT_BBx"
         },
         {
-          "label": ["Santa", "Maria", "Radio"],
+          "label": ["Santa", "Maria"],
           "size": 7,
           "page": {
             "rows": 3,
@@ -235,7 +227,8 @@
                 "station_id": "Shanwick"
               },
               {
-                "label": []
+                "label": ["DEL"],
+                "station_id": "Shanwick_DEL"
               },
               {
                 "label": []
@@ -252,7 +245,7 @@
       "gap": 0.75,
       "children": [
         {
-          "label": ["Scottish", "Control"],
+          "label": ["Scottish"],
           "size": 7,
           "page": {
             "rows": 2,
@@ -329,7 +322,7 @@
           "gap": 0.75,
           "children": [
             {
-              "label": ["Brest", "Control"],
+              "label": ["Brest"],
               "size": 7,
               "page": {
                 "rows": 2,
@@ -347,7 +340,7 @@
                     "label": ["AS", "255-355"]
                   },
                   {
-                    "label": ["Lower", "SFC-255"]
+                    "label": ["Lower", "255-"]
                   },
                   {
                     "label": []
@@ -356,7 +349,7 @@
               }
             },
             {
-              "label": ["Madrid", "Radar"],
+              "label": ["Madrid"],
               "size": 7,
               "page": {
                 "rows": 2,
@@ -365,7 +358,7 @@
                     "label": ["Upper", "245-660"]
                   },
                   {
-                    "label": ["Lower", "SFC-245"]
+                    "label": ["Lower", "245-"]
                   }
                 ]
               }
