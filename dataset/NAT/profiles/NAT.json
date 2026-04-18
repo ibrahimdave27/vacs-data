@@ -37,13 +37,63 @@
           }
         },
         {
-          "label": ["Gander", "Domestic", "(INOP)"],
+          "label": ["Gander", "Domestic"],
           "size": 7,
           "page": {
             "rows": 5,
             "keys": [
               {
-                "label": ["INOP"]
+                "label": ["Gander", "Domestic"],
+                "station_id": "CZQX-CTR"
+              },
+              {
+                "label": ["GOTA", "North", "QX 7"],
+                "station_id": "CZQX-7-CTR"
+              },
+              {
+                "label": ["GOTA", "South", "QX 6"],
+                "station_id": "CZQX-6-CTR"
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": []
+              },
+              {
+                "label": ["QX", "5"],
+                "station_id": "CZQX-5-CTR"
+              },
+              {
+                "label": ["QX", "4"],
+                "station_id": "CZQX-4-CTR"
+              },
+              {
+                "label": ["QX", "3"],
+                "station_id": "CZQX-3-CTR"
+              },
+              {
+                "label": ["QX", "2"],
+                "station_id": "CZQX-2-CTR"
+              },
+              {
+                "label": ["QX", "1"],
+                "station_id": "CZQX-1-CTR"
               }
             ]
           }
@@ -324,12 +374,20 @@
             "rows": 2,
             "keys": [
               {
-                "label": ["North"],
-                "station_id": "SCO_N_CTR"
+                "label": ["Hebrides", "High", "255-660"],
+                "station_id": "EG-Hebrides-High"
               },
               {
-                "label": ["West"],
-                "station_id": "SCO_W_CTR"
+                "label": ["Central", "255-660"],
+                "station_id": "EG-Central"
+              },
+              {
+                "label": ["Hebrides", "Low", "DB-255"],
+                "station_id": "EG-Hebrides-Low"
+              },
+              {
+                "label": ["Central", "DB-255"],
+                "station_id": "EG-Westcoast-Central"
               }
             ]
           }
