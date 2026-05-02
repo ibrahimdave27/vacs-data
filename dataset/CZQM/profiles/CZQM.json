@@ -320,14 +320,6 @@
                         "label": ""
                       },
                       {
-                        "label": ["QX", "G"],
-                        "station_id": "CZQX-G-CTR"
-                      },
-                      {
-                        "label": ["QX", "O"],
-                        "station_id": "CZQX-O-CTR"
-                      },
-                      {
                         "label": ""
                       },
                       {
@@ -335,6 +327,14 @@
                       },
                       {
                         "label": ""
+                      },
+                      {
+                        "label": ["QX", "7"],
+                        "station_id": "CZQX-7-CTR"
+                      },
+                      {
+                        "label": ["QX", "6"],
+                        "station_id": "CZQX-6-CTR"
                       },
                       {
                         "label": ""
